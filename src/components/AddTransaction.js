@@ -139,30 +139,7 @@ const AddTransaction = (props) => {
                       </Button>
                   </div>
               </div>
-                {/*<Grid container spacing={3} className={classes.button}>*/}
-                {/*    <Button*/}
-                {/*        item*/}
-                {/*        xs={6}*/}
-                {/*        variant="contained"*/}
-                {/*        color="primary"*/}
-                {/*        size="small"*/}
-                {/*        className={classes.button}*/}
-                {/*        startIcon={<SaveIcon />}*/}
-                {/*        type='submit'*/}
-                {/*    >Save*/}
-                {/*    </Button>*/}
-                {/*    <Button*/}
-                {/*        item*/}
-                {/*        xs={6}*/}
-                {/*        variant="contained"*/}
-                {/*        color="secondary"*/}
-                {/*        size="small"*/}
-                {/*        className={classes.button}*/}
-                {/*        startIcon={<CancelIcon />}*/}
-                {/*        onClick={goToTransaction}*/}
-                {/*    > Cancel*/}
-                {/*    </Button>*/}
-                {/*</Grid>*/}
+              
             </form>
             </Container>
         </>
